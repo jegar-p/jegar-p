@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jegar-p, a Data Scientist and co-founder of Mirror Analytics
+- 👋 Hi, I’m @jegar-p, a Data Scientist and co-founder of Scientific Microservices
 - 👀 I’m interested in Bayesian Statistics, Complex Systems modelling and the democratization of science using distributed and trustless technologies
 - 🌱 I’m currently learning Variational Bayesian approaches, and extending my understanding of estimation algorithms. 
 - 💞️ I’m looking to collaborate on building scientific microservices, especially in graph based models and spatial analysis.
